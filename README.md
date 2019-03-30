@@ -2,5 +2,6 @@
 
 #TUTORIAL
 
+#0. open the bfs.py inside QUIZ2PAA folder.
 #1. Edit the labyrinth inside buatlabirin function so it looks like your labyrinth.
-#2. Run the program.
+#2. Run the bfs.py.
