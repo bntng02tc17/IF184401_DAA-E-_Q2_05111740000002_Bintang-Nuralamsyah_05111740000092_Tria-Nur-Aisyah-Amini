@@ -2,4 +2,5 @@
 
 #TUTORIAL
 
-#1. Edit the labyrinth inside buatlabirin function 
+#1. Edit the labyrinth inside buatlabirin function so it looks like your labyrinth.
+#2. Run the program.
